@@ -8,7 +8,7 @@ Install all requirements
 ```bash
 pip install -r requirements.txt
 ```
-install [Python](https://www.python.org/downloads/) version 3.8 (I use 3.8.10)
+  -> install [Python](https://www.python.org/downloads/) version 3.8 (I use 3.8.10)
 
 If you running first time
 
