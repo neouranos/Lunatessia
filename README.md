@@ -5,14 +5,10 @@ Chatter bot app using [Django](https://ww.djangoproject.com) and [ChatterBot](ht
 ## Documentation
 
 Install all requirements
-
 ```bash
 pip install -r requirements.txt
-
-and
-
-install [Python](https://www.python.org/downloads/) version 3.8 (I use 3.8.10)
 ```
+install [Python](https://www.python.org/downloads/) version 3.8 (I use 3.8.10)
 
 If you running first time
 
