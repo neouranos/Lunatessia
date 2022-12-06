@@ -4,6 +4,12 @@ Chatter bot app using [Django](https://ww.djangoproject.com) and [ChatterBot](ht
 
 ## Documentation
 
+Install all requirements
+
+```bash
+pip install -r requirements.txt
+```
+
 If you running first time
 
 ```Bash
@@ -16,7 +22,7 @@ Start the Django app by running
 python manage.py runserver
 ```
 
-## Make migrations
+Make migrations
 
 ```Bash
 python manage.py migrate
@@ -26,8 +32,7 @@ python manage.py migrate
 
 The chatterbot [corpus path](https://github.com/gunthercox/chatterbot-corpus/tree/master/chatterbot_corpus/data/) can be found here.
 
-### Build your app and run it locally
+## Demo
 
-```bash
-pip install -r requirements.txt
-```
+![image](https://user-images.githubusercontent.com/63483228/205886231-29a609ab-a5dd-4610-8b41-102e5a56d376.png)
+
